@@ -1,0 +1,17 @@
+<!ELEMENT red (persona)>
+<!ATTLIST persona 
+    nombre CDATA  #REQUIRED
+    apellidos CDATA #REQUIRED>
+<!ELEMENT persona (datos, person?, persona?, persona?)>
+<!ELEMENT datos (nacimiento, residencia, foto+, video+, comentario)>
+<!ELEMENT comentario (#PCDATA)>
+<!ELEMENT video (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT nacimiento (lugar, fecha, coord)> 
+<!ELEMENT residencia (lugar, coord)> 
+<!ELEMENT lugar (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT coord (longitud, latitud, altitud)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT altitud (#PCDATA)>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE red SYSTEM "atributos.dtd">
+<red>
+    <persona nombre = "Ana" apellidos = "Fernández Ostio">
+        <datos>
+            <nacimiento>
+                <lugar>Hospital Monte Naranco, Oviedo</lugar>
+                <fecha>2001-12-30</fecha>
+                <coord>
+                    <longitud>2,4</longitud>
+                    <altitud>4,5</altitud>
+                    <latitud>2,9</latitud>
+                </coord>
+            </nacimiento>
+            <residencia>
+                <lugar>La Felguera</lugar>
+                <coord>
+                    <longitud>12</longitud>
+                    <altitud>89</altitud>
+                    <latitud>23</latitud>
+                </coord>
+            </residencia>
+            <foto>img/hola.png</foto>
+            <video>videos/lol.mp4</video>
+            <comentario>Estudiante de la asignatura SEW</comentario>
+        </datos>
+        <persona nombre = "Andrea" apellidos = "Romero Fernández">
+            <datos>
+                <nacimiento>
+                    <lugar>Hospital Monte Naranco, Oviedo</lugar>
+                    <fecha>2001-06-23</fecha>
+                    <coord>
+                        <longitud>2,4</longitud>
+                        <altitud>4,5</altitud>
+                        <latitud>2,9</latitud>
+                    </coord>
+                </nacimiento>
+                <residencia>
+                    <lugar>La Felguera</lugar>
+                    <coord>
+                        <longitud>12</longitud>
+                        <altitud>89</altitud>
+                        <latitud>23</latitud>
+                    </coord>
+                </residencia>
+                <foto>img/andrea.png</foto>
+                <video>videos/lol.mp4</video>
+                <comentario>Estudiante de magisterio.</comentario>
+            </datos>
+        </persona>
+        <persona nombre = "Sonia" apellidos = "Fernández Coto">
+            <datos>
+                <nacimiento>
+                    <lugar>Hospital Monte Naranco, Oviedo</lugar>
+                    <fecha>2001-12-30</fecha>
+                    <coord>
+                        <longitud>2,4</longitud>
+                        <altitud>4,5</altitud>
+                        <latitud>2,9</latitud>
+                    </coord>
+                </nacimiento>
+                <residencia>
+                    <lugar>Villoria</lugar>
+                    <coord>
+                        <longitud>12</longitud>
+                        <altitud>89</altitud>
+                        <latitud>23</latitud>
+                    </coord>
+                </residencia>
+                <foto>img/sonia.png</foto>
+                <comentario>Estudiante de la asignatura SEW</comentario>
+            </datos>
+        </persona>
+        <persona nombre = "Sergio" apellidos = "Murillo Álvarez">
+            <datos>
+                <nacimiento>
+                    <lugar>Hospital Monte Naranco, Oviedo</lugar>
+                    <fecha>2001-05-23</fecha>
+                    <coord>
+                        <longitud>2,4</longitud>
+                        <altitud>4,5</altitud>
+                        <latitud>2,9</latitud>
+                    </coord>
+                </nacimiento>
+                <residencia>
+                    <lugar>Laviana</lugar>
+                    <coord>
+                        <longitud>12</longitud>
+                        <altitud>89</altitud>
+                        <latitud>23</latitud>
+                    </coord>
+                </residencia>
+                <foto>img/sergio.png</foto>
+                <video>videos/wow.mp4</video>
+                <comentario>Le encanta jugar al wow</comentario>
+            </datos>
+        </persona>
+    </persona>
+</red>
