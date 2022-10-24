@@ -1,0 +1,45 @@
+Si algo tiene importancia por si solo, se le pone como hijo
+Nombre y apellidos a atributo
+Resto como hijo
+
+-----
+Hay que ver que el xml este bien formado (nivel estructural), se mria con los navegadores
+	- si esta mal formado, nos lo dice el, con un mesanje de error, nos señala la linea y la columna
+	- siempre que se haga un cambio grande, comprobar con el navegador.
+
+Hay que hacer ele ejercicio 1 entero para la semana que viene.
+
+La info no tiene que ser real. 
+
+La altitud se puede poner a 0
+
+no es lo mismo que este bien estructurado a que esa valido con respecto al dtd
+
+--- Tarea2---
+DTD tiene 3:
+	- + es de 0 a muhcos
+
+Para el tema del video es: video* y poner en el xml la restriccion
+
+
+para el tema de persona
+
+NO ES ASI persona?, persona?
+o 3 o niguna.
+
+ESTO TIENE QUE SER DE LA FORMA:
+	<!ELEMENT persona (datos, (persona, persona, persona)?)> ->>> es como lo tengo ya
+
+---- como +/- tiene que estar el xml
+Etiuqetua datos y dentro toda la info de la persona
+
+<persona>
+	<datos>
+		jklsajdla
+	<datos>
+	<persona></persona>
+	<persona></persona>
+	<persona></persona>
+</persona>
+
+Misma etiqueta persona para todas las personas.
