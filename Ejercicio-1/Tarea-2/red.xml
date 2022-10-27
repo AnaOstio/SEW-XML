@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE red SYSTEM "atributos.dtd">
+<!DOCTYPE persona SYSTEM "atributos.dtd">
 	<persona nombre = "Ana" apellidos = "Fernández Ostio">
 		<datos>
 			<nacimiento>
 				<lugar>Hospital del Naranco, Oviedo</lugar>
 				<fecha>2001-12-30</fecha>
+				
 				<coord>
 					<longitud>43.369722</longitud>
 					<latitud>-5.872797</latitud>
@@ -272,7 +273,7 @@
 				
 				<foto>multimedia/img/sergio.png</foto>
 				<video>multimedia/video/sergio.mp4</video>
-				<comentario>Fan de hasbulla y del wow</comentario>
+				<comentario>Fan de hasbulla y de los Mercedes Benz</comentario>
 			</datos>
 			
 			<persona nombre = "Sara" apellidos = "Ferrero Lopez">
@@ -298,7 +299,7 @@
 					
 					<foto>multimedia/img/saraf.png</foto>
 					<video>multimedia/video/saraf.mp4</video>
-					<comentario>estudia en gijon</comentario>
+					<comentario>estudia en gijon pero le cuesta</comentario>
 				</datos>
 			</persona> 
 			
