@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persona SYSTEM "atributos.dtd">
+	<persona nombre = "Ana" apellidos = "Fernández Ostio">
+		<datos>
+			<nacimiento>
+				<lugar>Hospital del Naranco, Oviedo</lugar>
+				<fecha>2001-12-30</fecha>
+				
+				<coord>
+					<longitud>43.369722</longitud>
+					<latitud>-5.872797</latitud>
+					<altitud>120</altitud>
+				</coord>
+			</nacimiento>
+			
+			<residencia>
+				<lugar>La Felguera, Langreo</lugar>
+				<coord>
+					<longitud>43.300599</longitud>
+					<latitud>-5.686115</latitud>
+					<altitud>120</altitud>
+				</coord>
+			</residencia>
+			
+			<foto>multimedia/img/yo.png</foto>
+			<video>multimedia/video/yo.mp4</video>
+			<comentario>Estudiante del grado de informatica del software</comentario>
+		</datos>
+		<persona nombre = "Andrea" apellidos = "Romero Fernández">
+			<datos>
+				<nacimiento>
+					<lugar>Hospital Valle del Nalón, Langreo</lugar>
+					<fecha>2001-06-23</fecha>
+					<coord>
+						<longitud>43.327384</longitud>
+						<latitud>-5.721423</latitud>
+						<altitud>120</altitud>
+					</coord>
+				</nacimiento>
+				
+				<residencia>
+					<lugar>La Felguera, Langreo</lugar>
+					<coord>
+						<longitud>43.313460</longitud>
+						<latitud>-5.684037</latitud>
+						<altitud>140</altitud>
+					</coord>
+				</residencia>
+				
+				<foto>multimedia/img/andrea.png</foto>
+				<comentario>Puede pasarse horas en tiktok</comentario>
+			</datos>
+			
+			<persona nombre = "Sara" apellidos = "Rodríguez Gonzalez">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital Valle del Nalón, Langreo</lugar>
+						<fecha>2001-06-23</fecha>
+						<coord>
+							<longitud>43.327384</longitud>
+							<latitud>-5.721423</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>La Felguera, Langreo</lugar>
+						<coord>
+							<longitud>43.307858</longitud>
+							<latitud>-5.694365</latitud>
+							<altitud>140</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/sara.png</foto>
+					<comentario>Estudia fuera de Asturias</comentario>
+				</datos>
+			
+			</persona> 
+			
+			<persona nombre = "Sofía" apellidos = "Nevado Domínguez">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital Universitario de Asturias, Oviedo</lugar>
+						<fecha>2001-01-27</fecha>
+						<coord>
+							<longitud>43.374761</longitud>
+							<latitud>-5.828411</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>La Felguera, Langreo</lugar>
+						<coord>
+							<longitud>43.310724</longitud>
+							<latitud>-5.696117s</latitud>
+							<altitud>140</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/sofia.png</foto>
+					<video>multimedia/video/sofia.mp4</video>
+					<video>multimedia/video/sofia2.mp4</video>
+					<video>multimedia/video/sofia3.mp4</video>
+					<comentario>Toca el violin y el piano, además tambien canta</comentario>
+				</datos>
+			
+			</persona> 
+			
+			<persona nombre = "Carlos" apellidos = "Aparicio Rodríguez">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital Cabueñes, Gijón</lugar>
+						<fecha>2001-04-03</fecha>
+						<coord>
+							<longitud>43.525430</longitud>
+							<latitud>-5.606915</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>La Felguera, Langreo</lugar>
+						<coord>
+							<longitud>43.308383</longitud>
+							<latitud>-5.694912</latitud>
+							<altitud>140</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/carlos.png</foto>
+					<video>mutimedia/video/carlos.mp4</video>
+					<comentario>No se le ve ni el pelo, está siemrpe en la montaña</comentario>
+				</datos>
+		
+			</persona> 
+			
+		</persona> 
+		
+		<persona nombre = "Sonia" apellidos = "Fernández Coto">
+			<datos>
+				<nacimiento>
+					<lugar>Hospital del Naranco, Oviedo</lugar>
+					<fecha>2001-07-18</fecha>
+					<coord>
+						<longitud>43.370522</longitud>
+						<latitud>-5.873290</latitud>
+						<altitud>120</altitud>
+					</coord>
+				</nacimiento>
+				
+				<residencia>
+					<lugar>Villoria, Laviana</lugar>
+					<coord>
+						<longitud>43.217147</longitud>
+						<latitud>-5.563205</latitud>
+						<altitud>120</altitud>
+					</coord>
+				</residencia>
+				
+				<foto>multimedia/img/sonia.png</foto>
+				<video>multimedia/video/sonia.mp4</video>
+				<video>multimedia/video/sonia2.mp4</video>
+				<comentario>Que guapa va esta chica siempre</comentario>
+			</datos>
+			
+			<persona nombre = "Alicia" apellidos = "Fernández Pushkina">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital Álvarez Buylla, Mieres</lugar>
+						<fecha>2001-02-17</fecha>
+						<coord>
+							<longitud>43.226214</longitud>
+							<latitud>-5.780912</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>Mieres</lugar>
+						<coord>
+							<longitud>43.254424</longitud>
+							<latitud>-5.780472</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/alicia.png</foto>
+					<video>multimedia/video/ali.mp4</video>
+					<comentario>Dibuja muy bien y además tiene unas mascotas muy monas</comentario>
+				</datos>
+				
+			</persona> 
+			
+			<persona nombre = "Miriam" apellidos = "Gonzalez Alonso">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital del Naranco, Oviedo</lugar>
+						<fecha>2001-05-23</fecha>
+						<coord>
+							<longitud>43.550294</longitud>
+							<latitud> -5.699638</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>Oviedo</lugar>
+						<coord>
+							<longitud>43.370756</longitud>
+							<latitud>-5.854382</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/mir.png</foto>
+					<comentario>En realidad es de laviana</comentario>
+				</datos>
+				
+			</persona> 
+			
+			<persona nombre = "Hector" apellidos = "Lavandeira Fernández">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital del Naranco, Oviedo</lugar>
+						<fecha>2001-12-25</fecha>
+						<coord>
+							<longitud>43.370522</longitud>
+							<latitud>-5.873290</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>Oviedo</lugar>
+						<coord>
+							<longitud>43.358549</longitud>
+							<latitud>-5.840642</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/hector.png</foto>
+					<video>multimedia/video/hector.mp4</video>
+					<comentario>capricornio de confianza</comentario>
+				</datos>
+				
+			</persona> 
+			
+		</persona> 
+		
+		<persona nombre = "Sergio" apellidos = "Murillo Álvarez">
+			<datos>
+				<nacimiento>
+					<lugar>Hospital del Naranco, Oviedo</lugar>
+					<fecha>2001-05-23</fecha>
+					<coord>
+						<longitud>43.368802</longitud>
+						<latitud>-5.872073</latitud>
+						<altitud>120</altitud>
+					</coord>
+				</nacimiento>
+				
+				<residencia>
+					<lugar>Laviana</lugar>
+					<coord>
+						<longitud>43.247722</longitud>
+						<latitud>-5.562731</latitud>
+						<altitud>120</altitud>
+					</coord>
+				</residencia>
+				
+				<foto>multimedia/img/sergio.png</foto>
+				<foto>multimedia/img/mercedes.png</foto>
+				<video>multimedia/video/sergio.mp4</video>
+				<comentario>Fan de hasbulla y de los Mercedes Benz</comentario>
+			</datos>
+			
+			<persona nombre = "Sara" apellidos = "Ferrero Lopez">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital del Naranco, Oviedo</lugar>
+						<fecha>2001-07-18</fecha>
+						<coord>
+							<longitud>43.371403</longitud>
+							<latitud>-5.873267</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>La Felguera, Langreo</lugar>
+						<coord>
+							<longitud>43.30819278631577</longitud>
+							<latitud>-5.694307387923418</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/saraf.png</foto>
+					<video>multimedia/video/saraf.mp4</video>
+					<comentario>estudia en gijon pero le cuesta</comentario>
+				</datos>
+			</persona> 
+			
+			<persona nombre = "Noemí" apellidos = "Cuesta Murillo">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital Universitario de Asturias, Oviedo</lugar>
+						<fecha>2001-07-06</fecha>
+						<coord>
+							<longitud>43.375899</longitud>
+							<latitud>-5.823658</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>La Felguera, Langreo</lugar>
+						<coord>
+							<longitud>43.309329</longitud>
+							<latitud>-5.695246</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/noemi.png</foto>
+					<comentario>vive por y para la compe</comentario>
+				</datos>
+			</persona> 
+			<persona nombre = "Darío" apellidos = "Martínez Bajo">
+				<datos>
+					<nacimiento>
+						<lugar>Hospital Universitario de Asturias, Oviedo</lugar>
+						<fecha>2001-04-11</fecha>
+						<coord>
+							<longitud>43.524259</longitud>
+							<latitud>-5.605899</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</nacimiento>
+					
+					<residencia>
+						<lugar>Tuilla, Langreo</lugar>
+						<coord>
+							<longitud>43.328766</longitud>
+							<latitud>-5.643816</latitud>
+							<altitud>120</altitud>
+						</coord>
+					</residencia>
+					
+					<foto>multimedia/img/dario.png</foto>
+					<video>multimedia/video/dario.mp4</video>
+					<comentario>puede pasarse horas mirando en stockx</comentario>
+				</datos>
+			</persona> 
+		</persona> 
+	</persona> 
