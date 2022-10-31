@@ -20,7 +20,7 @@
         <xs:element ref="nacimiento" />
         <xs:element ref="residencia" />
         <xs:element minOccurs="1" maxOccurs="unbounded" ref="foto" />
-        <xs:element minOccurs="0" maxOccurs="3" ref="video" />
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="video" />
         <xs:element ref="comentario" />
       </xs:sequence>
     </xs:complexType>
@@ -46,17 +46,17 @@
   <xs:element name="video" type="xs:string" />
   <xs:element name="comentario" type="xs:string" />
   <xs:element name="lugar" type="xs:string" />
-  <xs:element name="fecha" type="xs:date" />
+  <xs:element name="fecha" type="xs:string" />
   <xs:element name="coord">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="longitud" />
         <xs:element ref="latitud" />
+        <xs:element ref="longitud" />
         <xs:element ref="altitud" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="longitud" type="xs:decimal" />
-  <xs:element name="latitud" type="xs:decimal" />
-  <xs:element name="altitud" type="xs:decimal" />
+  <xs:element name="longitud" type="xs:string" />
+  <xs:element name="latitud" type="xs:string" />
+  <xs:element name="altitud" type="xs:string" />
 </xs:schema>

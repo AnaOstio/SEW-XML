@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE persona SYSTEM "atributos.dtd">
-	<persona nombre = "Ana" apellidos = "Fernández Ostio">
+	<persona nombre = "Ana" apellidos = "Fernández Ostio" xmlns="http://tempuri.org/atributos"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://tempuri.org/atributos atributos.xsd">
 		<datos>
 			<nacimiento>
 				<lugar>Hospital del Naranco, Oviedo</lugar>

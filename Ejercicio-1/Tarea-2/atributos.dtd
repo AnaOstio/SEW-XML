@@ -7,7 +7,7 @@
 <!ELEMENT comentario (#PCDATA)>
 <!ELEMENT lugar (#PCDATA)>
 <!ELEMENT fecha (#PCDATA)>
-<!ELEMENT coord (longitud, latitud, altitud)>
+<!ELEMENT coord (latitud, longitud, altitud)>
 <!ELEMENT longitud (#PCDATA)>
 <!ELEMENT latitud (#PCDATA)>
 <!ELEMENT altitud (#PCDATA)>

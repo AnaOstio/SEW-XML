@@ -7,8 +7,8 @@
 				<fecha>2001-12-30</fecha>
 				
 				<coord>
-					<longitud>43.369722</longitud>
-					<latitud>-5.872797</latitud>
+					<latitud>43.369722</latitud>
+					<longitud>-5.872797</longitud>
 					<altitud>120</altitud>
 				</coord>
 			</nacimiento>
@@ -16,8 +16,8 @@
 			<residencia>
 				<lugar>La Felguera, Langreo</lugar>
 				<coord>
-					<longitud>43.300599</longitud>
-					<latitud>-5.686115</latitud>
+					<latitud>43.300599</latitud>
+					<longitud>-5.686115</longitud>
 					<altitud>120</altitud>
 				</coord>
 			</residencia>
@@ -32,8 +32,8 @@
 					<lugar>Hospital Valle del Nalón, Langreo</lugar>
 					<fecha>2001-06-23</fecha>
 					<coord>
-						<longitud>43.327384</longitud>
-						<latitud>-5.721423</latitud>
+						<latitud>43.327384</latitud>
+						<longitud>-5.721423</longitud>
 						<altitud>120</altitud>
 					</coord>
 				</nacimiento>
@@ -41,8 +41,8 @@
 				<residencia>
 					<lugar>La Felguera, Langreo</lugar>
 					<coord>
-						<longitud>43.313460</longitud>
-						<latitud>-5.684037</latitud>
+						<latitud>43.313460</latitud>
+						<longitud>-5.684037</longitud>
 						<altitud>140</altitud>
 					</coord>
 				</residencia>
@@ -57,8 +57,8 @@
 						<lugar>Hospital Valle del Nalón, Langreo</lugar>
 						<fecha>2001-06-23</fecha>
 						<coord>
-							<longitud>43.327384</longitud>
-							<latitud>-5.721423</latitud>
+							<latitud>43.328808</latitud>
+							<longitud>-5.722335</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -66,8 +66,8 @@
 					<residencia>
 						<lugar>La Felguera, Langreo</lugar>
 						<coord>
-							<longitud>43.307858</longitud>
-							<latitud>-5.694365</latitud>
+							<latitud>43.307858</latitud>
+							<longitud>-5.694365</longitud>
 							<altitud>140</altitud>
 						</coord>
 					</residencia>
@@ -84,8 +84,8 @@
 						<lugar>Hospital Universitario de Asturias, Oviedo</lugar>
 						<fecha>2001-01-27</fecha>
 						<coord>
-							<longitud>43.374761</longitud>
-							<latitud>-5.828411</latitud>
+							<latitud>43.374761</latitud>
+							<longitud>-5.828411</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -93,8 +93,8 @@
 					<residencia>
 						<lugar>La Felguera, Langreo</lugar>
 						<coord>
-							<longitud>43.310724</longitud>
-							<latitud>-5.696117s</latitud>
+							<latitud>43.310724</latitud>
+							<longitud>-5.696117s</longitud>
 							<altitud>140</altitud>
 						</coord>
 					</residencia>
@@ -114,8 +114,8 @@
 						<lugar>Hospital Cabueñes, Gijón</lugar>
 						<fecha>2001-04-03</fecha>
 						<coord>
-							<longitud>43.525430</longitud>
-							<latitud>-5.606915</latitud>
+							<latitud>43.525430</latitud>
+							<longitud>-5.606915</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -123,8 +123,8 @@
 					<residencia>
 						<lugar>La Felguera, Langreo</lugar>
 						<coord>
-							<longitud>43.308383</longitud>
-							<latitud>-5.694912</latitud>
+							<latitud>43.308383</latitud>
+							<longitud>-5.694912</longitud>
 							<altitud>140</altitud>
 						</coord>
 					</residencia>
@@ -144,8 +144,8 @@
 					<lugar>Hospital del Naranco, Oviedo</lugar>
 					<fecha>2001-07-18</fecha>
 					<coord>
-						<longitud>43.370522</longitud>
-						<latitud>-5.873290</latitud>
+						<latitud>43.370522</latitud>
+						<longitud>-5.873290</longitud>
 						<altitud>120</altitud>
 					</coord>
 				</nacimiento>
@@ -153,8 +153,8 @@
 				<residencia>
 					<lugar>Villoria, Laviana</lugar>
 					<coord>
-						<longitud>43.217147</longitud>
-						<latitud>-5.563205</latitud>
+						<latitud>43.217147</latitud>
+						<longitud>-5.563205</longitud>
 						<altitud>120</altitud>
 					</coord>
 				</residencia>
@@ -171,8 +171,8 @@
 						<lugar>Hospital Álvarez Buylla, Mieres</lugar>
 						<fecha>2001-02-17</fecha>
 						<coord>
-							<longitud>43.226214</longitud>
-							<latitud>-5.780912</latitud>
+							<latitud>43.226214</latitud>
+							<longitud>-5.780912</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -180,8 +180,8 @@
 					<residencia>
 						<lugar>Mieres</lugar>
 						<coord>
-							<longitud>43.254424</longitud>
-							<latitud>-5.780472</latitud>
+							<latitud>43.254424</latitud>
+							<longitud>-5.780472</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</residencia>
@@ -199,8 +199,8 @@
 						<lugar>Hospital del Naranco, Oviedo</lugar>
 						<fecha>2001-05-23</fecha>
 						<coord>
-							<longitud>43.550294</longitud>
-							<latitud> -5.699638</latitud>
+							<latitud>43.550294</latitud>
+							<longitud> -5.699638</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -208,8 +208,8 @@
 					<residencia>
 						<lugar>Oviedo</lugar>
 						<coord>
-							<longitud>43.370756</longitud>
-							<latitud>-5.854382</latitud>
+							<latitud>43.370756</latitud>
+							<longitud>-5.854382</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</residencia>
@@ -226,8 +226,8 @@
 						<lugar>Hospital del Naranco, Oviedo</lugar>
 						<fecha>2001-12-25</fecha>
 						<coord>
-							<longitud>43.370522</longitud>
-							<latitud>-5.873290</latitud>
+							<latitud>43.370522</latitud>
+							<longitud>-5.873290</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -235,8 +235,8 @@
 					<residencia>
 						<lugar>Oviedo</lugar>
 						<coord>
-							<longitud>43.358549</longitud>
-							<latitud>-5.840642</latitud>
+							<latitud>43.358549</latitud>
+							<longitud>-5.840642</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</residencia>
@@ -256,8 +256,8 @@
 					<lugar>Hospital del Naranco, Oviedo</lugar>
 					<fecha>2001-05-23</fecha>
 					<coord>
-						<longitud>43.368802</longitud>
-						<latitud>-5.872073</latitud>
+						<latitud>43.368802</latitud>
+						<longitud>-5.872073</longitud>
 						<altitud>120</altitud>
 					</coord>
 				</nacimiento>
@@ -265,8 +265,8 @@
 				<residencia>
 					<lugar>Laviana</lugar>
 					<coord>
-						<longitud>43.247722</longitud>
-						<latitud>-5.562731</latitud>
+						<latitud>43.247722</latitud>
+						<longitud>-5.562731</longitud>
 						<altitud>120</altitud>
 					</coord>
 				</residencia>
@@ -282,8 +282,8 @@
 						<lugar>Hospital del Naranco, Oviedo</lugar>
 						<fecha>2001-07-18</fecha>
 						<coord>
-							<longitud>43.371403</longitud>
-							<latitud>-5.873267</latitud>
+							<latitud>43.371403</latitud>
+							<longitud>-5.873267</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -291,8 +291,8 @@
 					<residencia>
 						<lugar>La Felguera, Langreo</lugar>
 						<coord>
-							<longitud>43.30819278631577</longitud>
-							<latitud>-5.694307387923418</latitud>
+							<latitud>43.30819278631577</latitud>
+							<longitud>-5.694307387923418</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</residencia>
@@ -309,8 +309,8 @@
 						<lugar>Hospital Universitario de Asturias, Oviedo</lugar>
 						<fecha>2001-07-06</fecha>
 						<coord>
-							<longitud>43.375899</longitud>
-							<latitud>-5.823658</latitud>
+							<latitud>43.375899</latitud>
+							<longitud>-5.823658</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -318,8 +318,8 @@
 					<residencia>
 						<lugar>La Felguera, Langreo</lugar>
 						<coord>
-							<longitud>43.309329</longitud>
-							<latitud>-5.695246</latitud>
+							<latitud>43.309329</latitud>
+							<longitud>-5.695246</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</residencia>
@@ -334,8 +334,8 @@
 						<lugar>Hospital Universitario de Asturias, Oviedo</lugar>
 						<fecha>2001-04-11</fecha>
 						<coord>
-							<longitud>43.524259</longitud>
-							<latitud>-5.605899</latitud>
+							<latitud>43.524259</latitud>
+							<longitud>-5.605899</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</nacimiento>
@@ -343,8 +343,8 @@
 					<residencia>
 						<lugar>Tuilla, Langreo</lugar>
 						<coord>
-							<longitud>43.328766</longitud>
-							<latitud>-5.643816</latitud>
+							<latitud>43.328766</latitud>
+							<longitud>-5.643816</longitud>
 							<altitud>120</altitud>
 						</coord>
 					</residencia>

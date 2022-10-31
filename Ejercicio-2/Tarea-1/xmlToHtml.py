@@ -38,8 +38,6 @@ def xml2html(xml, file_o):
         exit()
 
     raiz = arbol.getroot()
-    # 
-    print(raiz)
 
     text += getInformacion(raiz)
 
@@ -51,7 +49,7 @@ def xml2html(xml, file_o):
     
     with open(file_o, 'w', encoding = 'utf-8') as f:
         f.write(text )
-
+    print('Cambio realizado')
     exit()
 
 

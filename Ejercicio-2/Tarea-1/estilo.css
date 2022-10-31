@@ -1,3 +1,33 @@
-body {
-    background-color: white;
+/* 
+    Ana Fernandez Ostio, UO275780 
+    En este archivo va todo lo comun a los html
+*/
+
+/*(0,0,1)*/
+body{
+    margin: 0.5em;  
+    font-size: 1.1em;
+    background-color: #DEF8FC;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+/*(0,0,1)*/
+header, h2{
+    /*El color de la letra lo hereda de body*/
+    background-color: #4DD2FF;
+}
+
+/*(0,0,1)*/
+section{
+    border: solid;
+    border-color: #7BE6F7;
+    padding: 0.5em;
+    margin: 0.2em;
+}
+
+/*(0,0,1)*/
+video, img {
+    width: 30%;
+    height: auto;
 }

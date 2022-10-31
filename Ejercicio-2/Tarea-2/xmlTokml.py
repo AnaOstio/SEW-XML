@@ -39,7 +39,7 @@ def getInformacion(persona):
     texto += "\t<name> NACIMIENTO DE: " +  persona.attrib.get("nombre") + " " + persona.attrib.get("apellidos") + "</name>\n"
     texto += "\t<description>Nacío en :" +  persona.find('datos/nacimiento/lugar').text + "</description>\n"
     texto += "\t<Point>\n"
-    texto += "\t\t<coordinates>" + persona.find('datos/nacimiento/coord/latitud').text + "," + persona.find('datos/nacimiento/coord/longitud').text + "," + persona.find('datos/nacimiento/coord/altitud').text + "</coordinates>\n"
+    texto += "\t\t<coordinates>" + persona.find('datos/nacimiento/coord/longitud').text + "," + persona.find('datos/nacimiento/coord/latitud').text + "," + persona.find('datos/nacimiento/coord/altitud').text + "</coordinates>\n"
     texto += "\t</Point>\n"
     texto += "\t</Placemark>\n"
 
@@ -47,7 +47,7 @@ def getInformacion(persona):
     texto += "\t<name> RESIDENCIA DE: " +  persona.attrib.get("nombre") + " " + persona.attrib.get("apellidos") + "</name>\n"
     texto += "\t<styleUrl>#red</styleUrl>\n"
     texto += "\t<Point>\n"
-    texto += "\t\t<coordinates>" + persona.find('datos/residencia/coord/latitud').text + "," + persona.find('datos/residencia/coord/longitud').text + "," + persona.find('datos/residencia/coord/altitud').text + "</coordinates>\n"
+    texto += "\t\t<coordinates>" + persona.find('datos/residencia/coord/longitud').text + "," + persona.find('datos/residencia/coord/latitud').text + "," + persona.find('datos/residencia/coord/altitud').text + "</coordinates>\n"
     texto += "\t</Point>\n"
     texto += "\t</Placemark>\n"
     return texto

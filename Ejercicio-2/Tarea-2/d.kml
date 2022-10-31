@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+        <Document>
+        <Style id="red">
+        <IconStyle>
+        <color>ff0000ff</color>
+        </IconStyle>
+        </Style>
+        <name> Red Social (Nacimiento y residencia) </name>
+<Placemark>
+	<name> NACIMIENTO DE: Ana Fernández Ostio</name>
+	<description>Nacío en :Hospital del Naranco, Oviedo</description>
+	<Point>
+		<coordinates>-5.872797,43.369722,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Ana Fernández Ostio</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.872797,43.369722,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Andrea Romero Fernández</name>
+	<description>Nacío en :Hospital Valle del Nalón, Langreo</description>
+	<Point>
+		<coordinates>-5.721423,43.327384,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Andrea Romero Fernández</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.721423,43.327384,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Sara Rodríguez Gonzalez</name>
+	<description>Nacío en :Hospital Valle del Nalón, Langreo</description>
+	<Point>
+		<coordinates>-5.722335,43.328808,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Sara Rodríguez Gonzalez</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.722335,43.328808,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Sofía Nevado Domínguez</name>
+	<description>Nacío en :Hospital Universitario de Asturias, Oviedo</description>
+	<Point>
+		<coordinates>-5.828411,43.374761,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Sofía Nevado Domínguez</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.828411,43.374761,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Carlos Aparicio Rodríguez</name>
+	<description>Nacío en :Hospital Cabueñes, Gijón</description>
+	<Point>
+		<coordinates>-5.606915,43.525430,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Carlos Aparicio Rodríguez</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.606915,43.525430,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Sonia Fernández Coto</name>
+	<description>Nacío en :Hospital del Naranco, Oviedo</description>
+	<Point>
+		<coordinates>-5.873290,43.370522,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Sonia Fernández Coto</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.873290,43.370522,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Alicia Fernández Pushkina</name>
+	<description>Nacío en :Hospital Álvarez Buylla, Mieres</description>
+	<Point>
+		<coordinates>-5.780912,43.226214,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Alicia Fernández Pushkina</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.780912,43.226214,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Miriam Gonzalez Alonso</name>
+	<description>Nacío en :Hospital del Naranco, Oviedo</description>
+	<Point>
+		<coordinates> -5.699638,43.550294,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Miriam Gonzalez Alonso</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates> -5.699638,43.550294,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Hector Lavandeira Fernández</name>
+	<description>Nacío en :Hospital del Naranco, Oviedo</description>
+	<Point>
+		<coordinates>-5.873290,43.370522,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Hector Lavandeira Fernández</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.873290,43.370522,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Sergio Murillo Álvarez</name>
+	<description>Nacío en :Hospital del Naranco, Oviedo</description>
+	<Point>
+		<coordinates>-5.872073,43.368802,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Sergio Murillo Álvarez</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.872073,43.368802,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Sara Ferrero Lopez</name>
+	<description>Nacío en :Hospital del Naranco, Oviedo</description>
+	<Point>
+		<coordinates>-5.873267,43.371403,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Sara Ferrero Lopez</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.873267,43.371403,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Noemí Cuesta Murillo</name>
+	<description>Nacío en :Hospital Universitario de Asturias, Oviedo</description>
+	<Point>
+		<coordinates>-5.823658,43.375899,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Noemí Cuesta Murillo</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.823658,43.375899,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> NACIMIENTO DE: Darío Martínez Bajo</name>
+	<description>Nacío en :Hospital Universitario de Asturias, Oviedo</description>
+	<Point>
+		<coordinates>-5.605899,43.524259,120</coordinates>
+	</Point>
+	</Placemark>
+<Placemark>
+	<name> RESIDENCIA DE: Darío Martínez Bajo</name>
+	<styleUrl>#red</styleUrl>
+	<Point>
+		<coordinates>-5.605899,43.524259,120</coordinates>
+	</Point>
+	</Placemark>
+</Document>
+</kml>
