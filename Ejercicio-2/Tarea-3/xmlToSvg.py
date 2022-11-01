@@ -13,7 +13,7 @@ def XML2SVG(f_svg, f_out):
         exit()
 
     svg = '''<?xml version="1.0" encoding="utf-8"?>
-    <svg width="3770" height="18470" style="overflow:visible " 
+    <svg width="3500" height="4000" style="overflow:visible " 
     version="1.1" xmlns="http://www.w3.org/2000/svg">'''
 
     raiz = arbol.getroot()
@@ -57,7 +57,7 @@ def printLineasHijos(dx1, dy1, dx2, dy2):
 def printLineas():
     cad = ""
     cad += "<line x1 = '915' y1 = '100' x2 = '1215' y2 = '100' stroke-width = '3' stroke = 'black'/>"
-    cad += "<line x1 = '400' y1 = '125' x2 = '400' y2 = '2500' stroke-width = '3' stroke = 'black'/>"
+    cad += "<line x1 = '400' y1 = '150' x2 = '400' y2 = '2500' stroke-width = '3' stroke = 'black'/>"
     cad += "<line x1 = '400' y1 = '2500' x2 = '1215' y2 = '2500' stroke-width = '3' stroke = 'black'/>"
     cad += "<line x1 = '400' y1 = '1250' x2 = '1215' y2 = '1250' stroke-width = '3' stroke = 'black'/>"
     return cad
@@ -65,15 +65,38 @@ def printLineas():
 def getInfo(persona, x, y):
     dx = 15 + x
     dy = 25 + y
-    tx = 350 + x
+    tx = 450 + x
     ty = 60 + y
     cad = ''
 
-    cad += "<rect x='{}' y='{}' width='900' stroke = 'blue' stroke-width = '7' height = '100' fill='yellow' />".format(dx, dy)
+    cad += "<rect x='{}' y='{}' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' />".format(dx, dy)
     cad += '<text x= "{}" y = "{}" text-anchor="middle" font-size="16" style="fill:black">'.format(tx, ty)
-    cad += persona.attrib.get("nombre") + " " + persona.attrib.get("apellidos") + ". Nacido el "  + persona.find('datos/nacimiento/fecha').text + " en " + persona.find('datos/nacimiento/lugar').text
+    cad += persona.attrib.get("nombre") + " " + persona.attrib.get("apellidos") + ". Nacido el "  + persona.find('datos/nacimiento/fecha').text + " en " + persona.find('datos/nacimiento/lugar').text + ", coords " + persona.find('datos/nacimiento/coord/latitud').text + ", " + persona.find('datos/nacimiento/coord/longitud').text + ", " + persona.find('datos/nacimiento/coord/altitud').text
+    cad += "</text>\n"
+    cad += '<text x= "{}" y = "{}" text-anchor="middle" font-size="16" style="fill:black">'.format(tx, ty + 15)
+    cad += " Reside en "  + persona.find('datos/residencia/lugar').text + ", coords " + persona.find('datos/residencia/coord/latitud').text + ", " + persona.find('datos/residencia/coord/longitud').text + ", " + persona.find('datos/residencia/coord/altitud').text
+    cad += "</text>\n"
+    cad += '<text x= "{}" y = "{}" text-anchor="middle" font-size="16" style="fill:black">'.format(tx, ty + 30)
+    cad += "Fotos: "
+    cad += getMultimedia(persona, "foto")
+    cad += "</text>\n"
+    cad += '<text x= "{}" y = "{}" text-anchor="middle" font-size="16" style="fill:black">'.format(tx, ty + 45)
+    cad += "Videos: "
+    cad += getMultimedia(persona, "video")
+    cad += "</text>\n"
+    cad += '<text x= "{}" y = "{}" text-anchor="middle" font-size="16" style="fill:black">'.format(tx, ty + 60)
+    cad += "Comentarios: "
+    cad += persona.find('datos/comentario').text + " "
     cad += "</text>\n"
 
+
+    return cad
+
+def getMultimedia(persona, tipo):
+    cad = ""
+    for d in persona.findall('datos'):
+        for f in d.findall(tipo):
+            cad += f.text + " "
     return cad
 
 def checkXML(xml, svg):
