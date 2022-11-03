@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
         <kml xmlns="http://www.opengis.net/kml/2.2">
         <Document>
-        <Style id="red">
-        <IconStyle>
-        <color>ff0000ff</color>
-        </IconStyle>
+        <Style id="residencia">
+            <IconStyle>
+                <color>ff0000ff</color>
+            </IconStyle>
         </Style>
         <name> Red Social (Nacimiento y residencia) </name>
 <Placemark>
@@ -16,7 +16,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Ana Fernández Ostio</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.686115,43.300599,120</coordinates>
 	</Point>
@@ -30,7 +30,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Andrea Romero Fernández</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.684037,43.313460,140</coordinates>
 	</Point>
@@ -44,7 +44,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Sara Rodríguez Gonzalez</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.694365,43.307858,140</coordinates>
 	</Point>
@@ -58,7 +58,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Sofía Nevado Domínguez</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.696117s,43.310724,140</coordinates>
 	</Point>
@@ -72,7 +72,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Carlos Aparicio Rodríguez</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.694912,43.308383,140</coordinates>
 	</Point>
@@ -86,7 +86,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Sonia Fernández Coto</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.563205,43.217147,120</coordinates>
 	</Point>
@@ -100,7 +100,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Alicia Fernández Pushkina</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.780472,43.254424,120</coordinates>
 	</Point>
@@ -114,7 +114,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Miriam Gonzalez Alonso</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.854382,43.370756,120</coordinates>
 	</Point>
@@ -128,7 +128,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Hector Lavandeira Fernández</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.840642,43.358549,120</coordinates>
 	</Point>
@@ -142,7 +142,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Sergio Murillo Álvarez</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.562731,43.247722,120</coordinates>
 	</Point>
@@ -156,7 +156,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Sara Ferrero Lopez</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.694307387923418,43.30819278631577,120</coordinates>
 	</Point>
@@ -170,7 +170,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Noemí Cuesta Murillo</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.695246,43.309329,120</coordinates>
 	</Point>
@@ -184,7 +184,7 @@
 	</Placemark>
 <Placemark>
 	<name> RESIDENCIA DE: Darío Martínez Bajo</name>
-	<styleUrl>#red</styleUrl>
+	<styleUrl>#residencia</styleUrl>
 	<Point>
 		<coordinates>-5.643816,43.328766,120</coordinates>
 	</Point>

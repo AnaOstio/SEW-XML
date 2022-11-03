@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<persona nombre = "Ana" apellidos = "Fernández Ostio" xmlns="http://tempuri.org/atributos"
+<!DOCTYPE persona SYSTEM "atributos.dtd">
+	<persona nombre = "Ana" apellidos = "Fernández Ostio"  xmlns="http://tempuri.org/atributos"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://tempuri.org/atributos atributos.xsd">
 		<datos>
@@ -131,7 +132,7 @@
 					</residencia>
 					
 					<foto>multimedia/img/carlos.png</foto>
-					<video>mutimedia/video/carlos.mp4</video>
+					<video>multimedia/video/carlos.mp4</video>
 					<comentario>No se le ve ni el pelo, está siemrpe en la montaña</comentario>
 				</datos>
 		

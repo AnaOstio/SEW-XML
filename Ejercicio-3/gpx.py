@@ -38,6 +38,7 @@ def visualiza(f_gpx):
     print('A continuación se mostrata una figura que representa la ruta del GPX si fuera sobre un mapa real')
     input('Haga enter')
     plt.figure(figsize=(14,8))
+    plt.title('representación en formato mapa', size = 18)
     plt.plot(route_df['longitude'], route_df['latitude'], color='#101010')
     plt.show()
     print('A continuación se mostrata una figura que representa  el desnivel que se ofrece ')
@@ -92,6 +93,9 @@ def checkExist(file):
 
 def main():
     """Metodo que pide por consola el fichero e intenta ejecutar el codigo"""
+    print("En este archivo se realiza un analisis del docuemnto, en cuanto adiferencias de alturas,")
+    print('además se representa en graficas, como seria la ruta en un mapa, continuando por')
+    print('generacion de diferencias de alturas segun van avanzando los kilometros')
     f_gpx = input("Nombre del fichero GPX: ")
     checkExist(f_gpx)
     visualiza(f_gpx)

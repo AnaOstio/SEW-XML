@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
     <svg width="3500" height="4000" style="overflow:visible " 
-    version="1.1" xmlns="http://www.w3.org/2000/svg"><rect x='15' y='25' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "450" y = "60" text-anchor="middle" font-size="16" style="fill:black">Ana Fernández Ostio. Nacido el 2001-12-30 en Hospital del Naranco, Oviedo, coords -5.872797, 43.369722, 120</text>
-<text x= "450" y = "75" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.686115, 43.300599, 120</text>
+    version="1.1" xmlns="http://www.w3.org/2000/svg"><rect x='15' y='25' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "450" y = "60" text-anchor="middle" font-size="16" style="fill:black">Ana Fernández Ostio. Nacido el 2001-12-30 en Hospital del Naranco, Oviedo, coords 43.369722, -5.872797, 120</text>
+<text x= "450" y = "75" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.300599, -5.686115, 120</text>
 <text x= "450" y = "90" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/yo.png </text>
 <text x= "450" y = "105" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/yo.mp4 </text>
 <text x= "450" y = "120" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Estudiante del grado de informatica del software </text>
-<rect x='1215' y='25' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "60" text-anchor="middle" font-size="16" style="fill:black">Andrea Romero Fernández. Nacido el 2001-06-23 en Hospital Valle del Nalón, Langreo, coords -5.721423, 43.327384, 120</text>
-<text x= "1650" y = "75" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.684037, 43.313460, 140</text>
+<rect x='1215' y='25' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "60" text-anchor="middle" font-size="16" style="fill:black">Andrea Romero Fernández. Nacido el 2001-06-23 en Hospital Valle del Nalón, Langreo, coords 43.327384, -5.721423, 120</text>
+<text x= "1650" y = "75" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.313460, -5.684037, 140</text>
 <text x= "1650" y = "90" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/andrea.png </text>
 <text x= "1650" y = "105" text-anchor="middle" font-size="16" style="fill:black">Videos: </text>
 <text x= "1650" y = "120" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Puede pasarse horas en tiktok </text>
-<rect x='1215' y='325' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "360" text-anchor="middle" font-size="16" style="fill:black">Sara Rodríguez Gonzalez. Nacido el 2001-06-23 en Hospital Valle del Nalón, Langreo, coords -5.721423, 43.327384, 120</text>
-<text x= "1650" y = "375" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.694365, 43.307858, 140</text>
+<rect x='1215' y='325' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "360" text-anchor="middle" font-size="16" style="fill:black">Sara Rodríguez Gonzalez. Nacido el 2001-06-23 en Hospital Valle del Nalón, Langreo, coords 43.328808, -5.722335, 120</text>
+<text x= "1650" y = "375" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.307858, -5.694365, 140</text>
 <text x= "1650" y = "390" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/sara.png </text>
 <text x= "1650" y = "405" text-anchor="middle" font-size="16" style="fill:black">Videos: </text>
 <text x= "1650" y = "420" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Estudia fuera de Asturias </text>
-<rect x='1215' y='625' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "660" text-anchor="middle" font-size="16" style="fill:black">Sofía Nevado Domínguez. Nacido el 2001-01-27 en Hospital Universitario de Asturias, Oviedo, coords -5.828411, 43.374761, 120</text>
-<text x= "1650" y = "675" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.696117s, 43.310724, 140</text>
+<rect x='1215' y='625' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "660" text-anchor="middle" font-size="16" style="fill:black">Sofía Nevado Domínguez. Nacido el 2001-01-27 en Hospital Universitario de Asturias, Oviedo, coords 43.374761, -5.828411, 120</text>
+<text x= "1650" y = "675" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.310724, -5.696117s, 140</text>
 <text x= "1650" y = "690" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/sofia.png </text>
 <text x= "1650" y = "705" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/sofia.mp4 multimedia/video/sofia2.mp4 multimedia/video/sofia3.mp4 </text>
 <text x= "1650" y = "720" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Toca el violin y el piano, además tambien canta </text>
-<rect x='1215' y='925' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "960" text-anchor="middle" font-size="16" style="fill:black">Carlos Aparicio Rodríguez. Nacido el 2001-04-03 en Hospital Cabueñes, Gijón, coords -5.606915, 43.525430, 120</text>
-<text x= "1650" y = "975" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.694912, 43.308383, 140</text>
+<rect x='1215' y='925' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "960" text-anchor="middle" font-size="16" style="fill:black">Carlos Aparicio Rodríguez. Nacido el 2001-04-03 en Hospital Cabueñes, Gijón, coords 43.525430, -5.606915, 120</text>
+<text x= "1650" y = "975" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.308383, -5.694912, 140</text>
 <text x= "1650" y = "990" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/carlos.png </text>
-<text x= "1650" y = "1005" text-anchor="middle" font-size="16" style="fill:black">Videos: mutimedia/video/carlos.mp4 </text>
+<text x= "1650" y = "1005" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/carlos.mp4 </text>
 <text x= "1650" y = "1020" text-anchor="middle" font-size="16" style="fill:black">Comentarios: No se le ve ni el pelo, está siemrpe en la montaña </text>
-<rect x='1215' y='1225' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "1260" text-anchor="middle" font-size="16" style="fill:black">Sonia Fernández Coto. Nacido el 2001-07-18 en Hospital del Naranco, Oviedo, coords -5.873290, 43.370522, 120</text>
-<text x= "1650" y = "1275" text-anchor="middle" font-size="16" style="fill:black"> Reside en Villoria, Laviana, coords -5.563205, 43.217147, 120</text>
+<rect x='1215' y='1225' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "1260" text-anchor="middle" font-size="16" style="fill:black">Sonia Fernández Coto. Nacido el 2001-07-18 en Hospital del Naranco, Oviedo, coords 43.370522, -5.873290, 120</text>
+<text x= "1650" y = "1275" text-anchor="middle" font-size="16" style="fill:black"> Reside en Villoria, Laviana, coords 43.217147, -5.563205, 120</text>
 <text x= "1650" y = "1290" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/sonia.png </text>
 <text x= "1650" y = "1305" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/sonia.mp4 multimedia/video/sonia2.mp4 </text>
 <text x= "1650" y = "1320" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Que guapa va esta chica siempre </text>
-<rect x='1215' y='1525' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "1560" text-anchor="middle" font-size="16" style="fill:black">Alicia Fernández Pushkina. Nacido el 2001-02-17 en Hospital Álvarez Buylla, Mieres, coords -5.780912, 43.226214, 120</text>
-<text x= "1650" y = "1575" text-anchor="middle" font-size="16" style="fill:black"> Reside en Mieres, coords -5.780472, 43.254424, 120</text>
+<rect x='1215' y='1525' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "1560" text-anchor="middle" font-size="16" style="fill:black">Alicia Fernández Pushkina. Nacido el 2001-02-17 en Hospital Álvarez Buylla, Mieres, coords 43.226214, -5.780912, 120</text>
+<text x= "1650" y = "1575" text-anchor="middle" font-size="16" style="fill:black"> Reside en Mieres, coords 43.254424, -5.780472, 120</text>
 <text x= "1650" y = "1590" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/alicia.png </text>
 <text x= "1650" y = "1605" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/ali.mp4 </text>
 <text x= "1650" y = "1620" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Dibuja muy bien y además tiene unas mascotas muy monas </text>
-<rect x='1215' y='1825' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "1860" text-anchor="middle" font-size="16" style="fill:black">Miriam Gonzalez Alonso. Nacido el 2001-05-23 en Hospital del Naranco, Oviedo, coords  -5.699638, 43.550294, 120</text>
-<text x= "1650" y = "1875" text-anchor="middle" font-size="16" style="fill:black"> Reside en Oviedo, coords -5.854382, 43.370756, 120</text>
+<rect x='1215' y='1825' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "1860" text-anchor="middle" font-size="16" style="fill:black">Miriam Gonzalez Alonso. Nacido el 2001-05-23 en Hospital del Naranco, Oviedo, coords 43.550294,  -5.699638, 120</text>
+<text x= "1650" y = "1875" text-anchor="middle" font-size="16" style="fill:black"> Reside en Oviedo, coords 43.370756, -5.854382, 120</text>
 <text x= "1650" y = "1890" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/mir.png </text>
 <text x= "1650" y = "1905" text-anchor="middle" font-size="16" style="fill:black">Videos: </text>
 <text x= "1650" y = "1920" text-anchor="middle" font-size="16" style="fill:black">Comentarios: En realidad es de laviana </text>
-<rect x='1215' y='2125' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "2160" text-anchor="middle" font-size="16" style="fill:black">Hector Lavandeira Fernández. Nacido el 2001-12-25 en Hospital del Naranco, Oviedo, coords -5.873290, 43.370522, 120</text>
-<text x= "1650" y = "2175" text-anchor="middle" font-size="16" style="fill:black"> Reside en Oviedo, coords -5.840642, 43.358549, 120</text>
+<rect x='1215' y='2125' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "2160" text-anchor="middle" font-size="16" style="fill:black">Hector Lavandeira Fernández. Nacido el 2001-12-25 en Hospital del Naranco, Oviedo, coords 43.370522, -5.873290, 120</text>
+<text x= "1650" y = "2175" text-anchor="middle" font-size="16" style="fill:black"> Reside en Oviedo, coords 43.358549, -5.840642, 120</text>
 <text x= "1650" y = "2190" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/hector.png </text>
 <text x= "1650" y = "2205" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/hector.mp4 </text>
 <text x= "1650" y = "2220" text-anchor="middle" font-size="16" style="fill:black">Comentarios: capricornio de confianza </text>
-<rect x='1215' y='2425' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "2460" text-anchor="middle" font-size="16" style="fill:black">Sergio Murillo Álvarez. Nacido el 2001-05-23 en Hospital del Naranco, Oviedo, coords -5.872073, 43.368802, 120</text>
-<text x= "1650" y = "2475" text-anchor="middle" font-size="16" style="fill:black"> Reside en Laviana, coords -5.562731, 43.247722, 120</text>
-<text x= "1650" y = "2490" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/sergio.png multimedia/img/mercedes.png </text>
+<rect x='1215' y='2425' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "2460" text-anchor="middle" font-size="16" style="fill:black">Sergio Murillo Álvarez. Nacido el 2001-05-23 en Hospital del Naranco, Oviedo, coords 43.368802, -5.872073, 120</text>
+<text x= "1650" y = "2475" text-anchor="middle" font-size="16" style="fill:black"> Reside en Laviana, coords 43.247722, -5.562731, 120</text>
+<text x= "1650" y = "2490" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/sergio.png </text>
 <text x= "1650" y = "2505" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/sergio.mp4 </text>
 <text x= "1650" y = "2520" text-anchor="middle" font-size="16" style="fill:black">Comentarios: Fan de hasbulla y de los Mercedes Benz </text>
-<rect x='1215' y='2725' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "2760" text-anchor="middle" font-size="16" style="fill:black">Sara Ferrero Lopez. Nacido el 2001-07-18 en Hospital del Naranco, Oviedo, coords -5.873267, 43.371403, 120</text>
-<text x= "1650" y = "2775" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.694307387923418, 43.30819278631577, 120</text>
+<rect x='1215' y='2725' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "2760" text-anchor="middle" font-size="16" style="fill:black">Sara Ferrero Lopez. Nacido el 2001-07-18 en Hospital del Naranco, Oviedo, coords 43.371403, -5.873267, 120</text>
+<text x= "1650" y = "2775" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.30819278631577, -5.694307387923418, 120</text>
 <text x= "1650" y = "2790" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/saraf.png </text>
 <text x= "1650" y = "2805" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/saraf.mp4 </text>
 <text x= "1650" y = "2820" text-anchor="middle" font-size="16" style="fill:black">Comentarios: estudia en gijon pero le cuesta </text>
-<rect x='1215' y='3025' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "3060" text-anchor="middle" font-size="16" style="fill:black">Noemí Cuesta Murillo. Nacido el 2001-07-06 en Hospital Universitario de Asturias, Oviedo, coords -5.823658, 43.375899, 120</text>
-<text x= "1650" y = "3075" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords -5.695246, 43.309329, 120</text>
+<rect x='1215' y='3025' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "3060" text-anchor="middle" font-size="16" style="fill:black">Noemí Cuesta Murillo. Nacido el 2001-07-06 en Hospital Universitario de Asturias, Oviedo, coords 43.375899, -5.823658, 120</text>
+<text x= "1650" y = "3075" text-anchor="middle" font-size="16" style="fill:black"> Reside en La Felguera, Langreo, coords 43.309329, -5.695246, 120</text>
 <text x= "1650" y = "3090" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/noemi.png </text>
 <text x= "1650" y = "3105" text-anchor="middle" font-size="16" style="fill:black">Videos: </text>
 <text x= "1650" y = "3120" text-anchor="middle" font-size="16" style="fill:black">Comentarios: vive por y para la compe </text>
-<rect x='1215' y='3325' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "3360" text-anchor="middle" font-size="16" style="fill:black">Darío Martínez Bajo. Nacido el 2001-04-11 en Hospital Universitario de Asturias, Oviedo, coords -5.605899, 43.524259, 120</text>
-<text x= "1650" y = "3375" text-anchor="middle" font-size="16" style="fill:black"> Reside en Tuilla, Langreo, coords -5.643816, 43.328766, 120</text>
+<rect x='1215' y='3325' width='900' stroke = 'blue' stroke-width = '7' height = '120' fill='yellow' /><text x= "1650" y = "3360" text-anchor="middle" font-size="16" style="fill:black">Darío Martínez Bajo. Nacido el 2001-04-11 en Hospital Universitario de Asturias, Oviedo, coords 43.524259, -5.605899, 120</text>
+<text x= "1650" y = "3375" text-anchor="middle" font-size="16" style="fill:black"> Reside en Tuilla, Langreo, coords 43.328766, -5.643816, 120</text>
 <text x= "1650" y = "3390" text-anchor="middle" font-size="16" style="fill:black">Fotos: multimedia/img/dario.png </text>
 <text x= "1650" y = "3405" text-anchor="middle" font-size="16" style="fill:black">Videos: multimedia/video/dario.mp4 </text>
 <text x= "1650" y = "3420" text-anchor="middle" font-size="16" style="fill:black">Comentarios: puede pasarse horas mirando en stockx </text>

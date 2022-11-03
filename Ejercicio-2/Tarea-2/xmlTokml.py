@@ -5,10 +5,10 @@ def XML2KML(f_xml, f_out):
     kml = '''<?xml version="1.0" encoding="UTF-8"?>
         <kml xmlns="http://www.opengis.net/kml/2.2">
         <Document>
-        <Style id="red">
-        <IconStyle>
-        <color>ff0000ff</color>
-        </IconStyle>
+        <Style id="residencia">
+            <IconStyle>
+                <color>ff0000ff</color>
+            </IconStyle>
         </Style>
         <name> Red Social (Nacimiento y residencia) </name>\n'''
 
@@ -45,7 +45,7 @@ def getInformacion(persona):
 
     texto += "<Placemark>\n"
     texto += "\t<name> RESIDENCIA DE: " +  persona.attrib.get("nombre") + " " + persona.attrib.get("apellidos") + "</name>\n"
-    texto += "\t<styleUrl>#red</styleUrl>\n"
+    texto += "\t<styleUrl>#residencia</styleUrl>\n"
     texto += "\t<Point>\n"
     texto += "\t\t<coordinates>" + persona.find('datos/residencia/coord/longitud').text + "," + persona.find('datos/residencia/coord/latitud').text + "," + persona.find('datos/residencia/coord/altitud').text + "</coordinates>\n"
     texto += "\t</Point>\n"
